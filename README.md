@@ -14,11 +14,14 @@ After accessing my repository on GitHub, open the index.html for this project on
 
 ## Usage
 
-    ![Horiseon Webpage Screenshot 1](assets/images/usage1.png)
+    ![Screenshot1]
+    (https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage1.png)
 
-    ![Horiseon Webpage Screenshot 1](assets/images/usage2.png)
+    ![Screenshot2]
+    (https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage2.png)
 
-    ![Horiseon Webpage Screenshot 1](assets/images/usage3.png)
+    ![Screenshot3]
+    (https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage3.png)
 
 
 ## Credits
