@@ -4,6 +4,8 @@ HTML and CSS code refactoring for Horiseon webpage.
 
 ## Description
 
+Horiseon, a marketing agency, provided me with the index.html for their current webpage and requested that I edited their codebase to ensure it follows accessibility standards so that their site is optimized for search engines.
+
 As an amateur web developer, this project was a great, real world example of code refactoring that allowed me to apply the skills I have in HTML and CSS. Given a fully developed web page, I was concerned with cleaning up the HTML and CSS pages while maintaining the exact same front facing web page. Such a task required consolidation of repeated code or styling, making the code more readable with more specific syntax. The purpose was not to change the website in any way, but to edit and improve the code created by another developer. This collaboration resulted in better, organized code for an advanced homepage. I was able to work with code more advanced than I could seemingly create on my own, which gave me insight on the best practices of more advanced HTML and CSS. On top of honing my knowlege of code, I also learned best practices for creation of a README.md file and creating my own repository for the upload and submission of this work. My familiartity with GitHub advanced.
 
 
