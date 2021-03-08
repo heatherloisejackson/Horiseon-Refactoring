@@ -21,6 +21,11 @@ After accessing my repository on GitHub, open the index.html for this project on
 ![Screenshot3](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage3.png)
 
 
+## Links
+
+[Github Repository] (https://github.com/heatherloisejackson/Horiseon-Refactoring)
+[Deployed Application] (https://heatherloisejackson.github.io/horiseon-refactoring)
+
 ## Credits
 
 Collaboration on this project is credited to BCS Coding Bootcamp, a UPenn LPS Web Development Certificate Program, for providing the original code.
