@@ -23,8 +23,8 @@ After accessing my repository on GitHub, open the index.html for this project on
 
 ## Links
 
-[Github Repository](https://github.com/heatherloisejackson/Horiseon-Refactoring)
-[Deployed Application](https://heatherloisejackson.github.io/horiseon-refactoring)
+* [Github Repository](https://github.com/heatherloisejackson/Horiseon-Refactoring)
+* [Deployed Application](https://heatherloisejackson.github.io/horiseon-refactoring)
 
 ## Credits
 
