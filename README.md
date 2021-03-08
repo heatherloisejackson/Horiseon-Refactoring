@@ -16,9 +16,9 @@ After accessing my repository on GitHub, open the index.html for this project on
 
 ## Usage
 
-![Screenshot1](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage1.png)
-![Screenshot2](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage2.png)
-![Screenshot3](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/HoriseonRefactoring/assets/images/Usage3.png)
+![Screenshot1](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/assets/images/Usage1.png)
+![Screenshot2](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/assets/images/Usage2.png)
+![Screenshot3](https://github.com/heatherloisejackson/Horiseon-Refactoring/blob/main/assets/images/Usage3.png)
 
 
 ## Links
